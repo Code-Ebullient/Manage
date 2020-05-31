@@ -1,0 +1,42 @@
+/* Text
+Orange: FF6F59
+Dark: 0D0326 or 071B4A
+Light: 9D7BF4
+
+border radius: 72% 28% 70% 30% / 74% 30% 70% 26% 
+
+footer
+Red: FF715B
+Dark blue: 131C2A
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet');
+
+
+
+
+/* Media Queries */
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+    
+}
+
+@media (max-width: 576px) {
+    
+}
+
+/* 
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Boostrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (desktops, 768px and up)
+@media (min-width: 768px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
